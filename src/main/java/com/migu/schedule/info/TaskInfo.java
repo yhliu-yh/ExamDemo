@@ -50,4 +50,5 @@ public class TaskInfo
     {
         return "TaskInfo [taskId=" + taskId + ", nodeId=" + nodeId + ", consumption=" + consumption + "]";
     }
+	
 }
